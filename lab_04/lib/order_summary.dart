@@ -1,6 +1,4 @@
-// Vibe Coding Task 4, Slides 105 and 106: Reference solution for the Order Summary screen (not printed on a slide)
 import 'package:flutter/material.dart';
-
 import 'order.dart';
 
 class OrderSummaryScreen extends StatelessWidget {
